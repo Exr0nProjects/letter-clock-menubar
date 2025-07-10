@@ -3,6 +3,8 @@ Cursor is insane, I've written < 5 lines of swift in my life and literally took 
 
 anyways. quick clock to try my new base64 time format. 
 
+![](./pic.png)
+
 # Letter Clock - macOS Menu Bar App
 
 A simple macOS menu bar application built with Swift and AppKit.
